@@ -1,0 +1,43 @@
+body {
+  background: #141E30;
+  background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
+  margin: 0;
+  padding: 0;
+}
+
+.infoline {
+  font-family: Helvetica;
+  color: rgba(255, 255, 255, 0.5);
+  float: left;
+  font-size: 14px;
+  padding-left: 10px;
+  text-transform: uppercase;
+}
+
+
+
+.timg {
+  -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  float: left;
+  width: 50px;
+}
+.gitimg{
+    opacity:0.3;
+}
+.resimg{
+    opacity:0.3;
+}
+.idline h3{
+    color: azure;
+    font-family:monospace;
+    opacity:0.5;
+}
+.mc{
+    color:floralwhite;
+    opacity:0.4
+    position:absolute;
+    top:540px;
+    left:960px;
+}
